@@ -1,1 +1,3 @@
-# Amazon-clone
+# Amazon-Clone
+<br>
+by-Himanshu Sukhadeve
