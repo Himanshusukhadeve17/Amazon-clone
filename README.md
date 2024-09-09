@@ -1,5 +1,6 @@
 # Amazon-Clone
 - Himanshu Sukhadeve
+- link:- https://lnkd.in/dM4tsGhH
 
 ![Screenshot 2024-08-31 034356](https://github.com/user-attachments/assets/5e7fc0c1-b0c9-4e91-8f93-3399b42edab3)
 ![Screenshot 2024-08-31 034114](https://github.com/user-attachments/assets/255dc225-be39-4a9f-b6c3-579f60263731)
